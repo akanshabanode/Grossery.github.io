@@ -6,7 +6,7 @@ html{
     scroll-behavior: smooth;
 }
 .parallax,.parallax1{
-    background: url('../img/back.jpg');
+    background: url('back.jpg');
     height: max-content;
     background-position: center;
     background-size: cover;
@@ -165,7 +165,7 @@ a{
     box-shadow: 0 0 10px 5px #5b8c5a inset;
 }
 .parallax1{
-    background: url('../img/footer.jpg');
+    background: url('footer.jpg');
     background-repeat: no-repeat;
     text-align: center;
     background-position: center;
