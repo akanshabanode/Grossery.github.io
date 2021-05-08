@@ -6,7 +6,7 @@ html{
     scroll-behavior: smooth;
 }
 .parallax,.parallax1{
-   background: url("back.jpg");
+    background: url("back.jpg");
     height: max-content;
     background-position: center;
     background-size: cover;
